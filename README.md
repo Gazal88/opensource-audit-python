@@ -17,7 +17,7 @@ This repository contains all shell scripts and supporting materials for the **Op
 ## Repository Structure
 
 ```
-oss-audit-[rollnumber]/
+oss-audit-[24BCE11002]/
 ├── script1_system_identity.sh          # System Identity Report
 ├── script2_package_inspector.sh        # FOSS Package Inspector
 ├── script3_disk_permission_auditor.sh  # Disk and Permission Auditor
@@ -84,8 +84,8 @@ Interactively asks the user three questions and composes a personalised open-sou
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/[yourusername]/oss-audit-[rollnumber].git
-cd oss-audit-[rollnumber]
+git clone https://github.com/Gazal88/opensource-audit-python
+cd oss-audit-[24BCE11002]
 ```
 
 ### Step 2 — Make scripts executable
