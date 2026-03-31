@@ -71,7 +71,7 @@ OUTPUT="manifesto_${AUTHOR}.txt"   # Dynamic filename based on username
 cat > "$OUTPUT" << EOF
 ============================================================
         OPEN SOURCE MANIFESTO
-        by JALAJ SRIVASTAVA (${AUTHOR})
+        by yoshita purohit (${AUTHOR})
         Generated on: ${DATE} at ${TIME}
 ============================================================
 

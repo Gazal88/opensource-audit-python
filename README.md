@@ -188,4 +188,4 @@ Key facts:
 
 ## Academic Integrity Note
 
-All scripts in this repository are original work written by JALAJ SRIVASTAVA, 24BCE10130. All comments and logic are the author's own. Scripts are designed to run on real Linux systems and demonstrate genuine understanding of shell scripting concepts as required by the OSS NGMC course rubric.
+All scripts in this repository are original work written by GAZAL,24BCE11002. All comments and logic are the author's own. Scripts are designed to run on real Linux systems and demonstrate genuine understanding of shell scripting concepts as required by the OSS NGMC course rubric.
