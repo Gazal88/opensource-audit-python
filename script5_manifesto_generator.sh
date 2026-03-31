@@ -21,7 +21,7 @@ separator() {
 
 separator
 echo "     OPEN SOURCE MANIFESTO GENERATOR                      "
-echo "     Author: JALAJ SRIVASTAVA | Project: Python Audit          "
+echo "     Author: GAZAL | Project: Python Audit          "
 separator
 echo ""
 echo "  Answer three questions to generate your personal"

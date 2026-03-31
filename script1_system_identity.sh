@@ -8,7 +8,7 @@
 # =============================================================================
 
 # --- Variables ---
-STUDENT_NAME="JALAJ SRIVASTAVA"
+STUDENT_NAME="GAZAL"
 SOFTWARE_CHOICE="Python"
 
 # Gather system info using command substitution
